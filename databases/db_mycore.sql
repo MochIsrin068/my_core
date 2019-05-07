@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: May 01, 2019 at 08:36 AM
+-- Generation Time: May 07, 2019 at 10:58 AM
 -- Server version: 10.1.34-MariaDB
 -- PHP Version: 7.2.8
 
@@ -111,8 +111,8 @@ CREATE TABLE `table_user` (
 --
 
 INSERT INTO `table_user` (`id_user`, `ip_address`, `user_username`, `user_password`, `user_email`, `user_phone`, `user_status`, `user_last_login`, `create_date`, `user_first_name`, `user_last_name`, `user_image`, `user_address`) VALUES
-(1, '', 'admin', '21232f297a57a5a743894a0e4a801fc3', 'admin', '081342989185', 1, 1556688454, 123443, 'muh alfalah', 'madukubah', 'USER_1_1556685707.png', 'jalanan'),
-(15, '::1', 'admin@admin.com', '21232f297a57a5a743894a0e4a801fc3', 'admin@admin.com', '1234', 1, 1556688422, 1555585225, 'alan', 'hetfield', 'JASAIN_USER_15_1555585269.jpeg', 'jln mutiara no 8'),
+(1, '', 'admin', '21232f297a57a5a743894a0e4a801fc3', 'admin', '081342989185', 1, 1556720315, 123443, 'muh alfalah', 'madukubah', 'USER_1_1557140909.JPG', 'jalanan'),
+(15, '::1', 'admin@admin.com', '21232f297a57a5a743894a0e4a801fc3', 'admin@admin.com', '1234', 1, 1556709673, 1555585225, 'alan', 'hetfield', 'JASAIN_USER_15_1555585269.jpeg', 'jln mutiara no 8'),
 (16, '::1', 'admin1@admin.com', '225bc7ac4aaa1e606a628e990fe2d398', 'admin1@admin.com', '1234', 1, 1556691983, 1556691974, 'alan', 'hetfield', '', 'jalanan');
 
 -- --------------------------------------------------------
